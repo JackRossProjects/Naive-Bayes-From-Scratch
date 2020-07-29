@@ -1,1 +1,1 @@
-# Naive Bayes Classifier From Scratch
+# Naive Bayes Classifier (From Scratch)
