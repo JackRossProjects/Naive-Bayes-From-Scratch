@@ -1,7 +1,7 @@
 # Naive Bayes From Scratch
 (Filtering spam emails with multinomial naive Bayes)
 
-# Medium Article Link: 
+## Medium Article Link: 
 [Medium Link](https://medium.com/@jackross210/the-ironic-sophistication-of-naive-bayes-classifiers-82577b040b83 "HERE")
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
