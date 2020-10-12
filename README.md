@@ -1,5 +1,6 @@
 # The Ironic Sophistication of Naive Bayes Classifiers (Filtering spam with Multinomial Naive Bayes)
 ## Medium Article:
+
 [<h2>Medium Link</h2>](https://medium.com/p/the-ironic-sophistication-of-naive-bayes-classifiers-82577b040b83?source=email-4f39010debee--writer.postDistributed&sk=2b4806f2cc9ee7fb6633114d65820e90 "HERE")
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
